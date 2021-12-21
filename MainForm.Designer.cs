@@ -43,7 +43,7 @@ namespace lofi_moods
             this.lofiMoodsView.DefaultBackgroundColor = System.Drawing.Color.White;
             this.lofiMoodsView.Location = new System.Drawing.Point(0, 0);
             this.lofiMoodsView.Name = "lofiMoodsView";
-            this.lofiMoodsView.Size = new System.Drawing.Size(1164, 713);
+            this.lofiMoodsView.Size = new System.Drawing.Size(1163, 711);
             this.lofiMoodsView.Source = new System.Uri("https://jeromelalunio.tech/lofi-moods", System.UriKind.Absolute);
             this.lofiMoodsView.TabIndex = 0;
             this.lofiMoodsView.ZoomFactor = 1D;
