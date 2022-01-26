@@ -44,7 +44,7 @@ namespace lofi_moods
             this.lofiMoodsView.Location = new System.Drawing.Point(0, 0);
             this.lofiMoodsView.Name = "lofiMoodsView";
             this.lofiMoodsView.Size = new System.Drawing.Size(1163, 711);
-            this.lofiMoodsView.Source = new System.Uri("https://jeromelalunio.tech/lofi-moods", System.UriKind.Absolute);
+            this.lofiMoodsView.Source = new System.Uri("https://jeromelalunio.tech/lofi-moods-admin", System.UriKind.Absolute);
             this.lofiMoodsView.TabIndex = 0;
             this.lofiMoodsView.ZoomFactor = 1D;
             // 
@@ -56,7 +56,7 @@ namespace lofi_moods
             this.Controls.Add(this.lofiMoodsView);
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "MainForm";
-            this.Text = "Lofi Moods";
+            this.Text = "Lofi Moods Admin";
             ((System.ComponentModel.ISupportInitialize)(this.lofiMoodsView)).EndInit();
             this.ResumeLayout(false);
 
